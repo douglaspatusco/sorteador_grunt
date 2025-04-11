@@ -6,6 +6,11 @@ Este é um simples **sorteador de números aleatórios**, desenvolvido com o obj
 
 👉 [Clique aqui para acessar o sorteador](https://sorteador-grunt-fpjzb3wpo-dougeduardo.vercel.app/)
 
+## 📸 Demonstração
+
+![preview](https://i.imgur.com/zuJR9fx.png)
+
+---
 ## ✨ Funcionalidades
 
 - Defina um número máximo para o sorteio
